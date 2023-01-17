@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;500;600;900&family=Open+Sans:wght@400;500;700&family=Roboto:wght@300;400&display=swap');
+*{
+   font-family: 'Heebo', sans-serif;
+    margin: 0;
+   padding: 0;
+}
+.Game{
+    margin-left: 170px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    font-size: 12px;
+    margin-left: 340px;
+}
+.Gam{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 40px;   
+
+}
+nav ul li a:hover{
+    color: hsl(5, 85%, 63%);
+}
+nav{
+    display: flex;
+    text-align: justify;
+}
+nav ul li a {
+    text-decoration: none;
+    font-weight: 5px;
+    padding: 15px;
+    vertical-align: top;
+    color: hsl(236, 13%, 42%);
+     }
+.New{
+    background-color: hsl(240, 100%, 5%);
+    color: white;
+    width: 260px;
+    line-height: 24px;
+    padding: 15px;
+}
+.N{
+    color:  hsl(35, 77%, 62%);
+    font-size:30px;
+}
+.hydrogen{
+font-weight: bold;
+font-size: 15px;
+cursor: pointer;
+}
+.hydrogen:hover{
+    color: hsl(35, 77%, 62%);
+}
+.car{
+    font-size: 11px;
+}
+.gridsection{
+    display:grid;
+    grid-template-columns: repeat(2, 498px);
+    margin-left: 100px;
+    margin-right: 150px;  
+}
+button{
+    background-color:hsl(5, 85%, 63%);
+    color: white;
+    border: none;
+    margin-left: 30px;
+    padding: 10px 15px 10px 15px;
+    font-size: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color:hsl(240, 100%, 5%);
+}
+.brighter{
+    display: flex;
+}
+.bright{
+    font-size: 13px;
+    margin-left: 30px;
+    line-height: 20px;
+    padding-top: 8px;
+}
+.future{
+    font-size: 36px;
+}
+.space{
+    margin-left: 15px;
+}
+.same{
+    display: flex;
+    }
+.three{
+    margin-left: 100px;
+    margin-right: 150px;  
+}
+.retro{
+padding-right: 15px;
+}
+.Laptop, .gaming{
+    padding-left: 35px;
+    padding-right:15px;
+}
+.one{
+    color: rgb(204, 204, 204);
+}
+.two{
+    font-weight: bold;
+    font-size: 14px ;
+    cursor: pointer;
+}
+.two:hover{
+    color:hsl(5, 85%, 63%);
+}
+.four{
+    font-size: 10px;
+}
+.horizontal-line{
+    opacity: 0.5;
+}
